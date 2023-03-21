@@ -12,7 +12,4 @@ Encoder Decoder LSTM Model and T5 Transformer Model
 ![Output 3](Outputs/Output_3.png)
 
 
-![Output 4](Outputs/Output_4.png)
-
-
 ![Output 5](Outputs/Output_5.png)
