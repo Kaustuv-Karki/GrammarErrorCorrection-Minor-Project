@@ -3,6 +3,8 @@
 Comparative Study Of Grammar Error Correction Using
 Encoder Decoder LSTM Model and T5 Transformer Model
 
+This project was done to fulfill the criteria for Minor project conducted by Institute of Engineering in 6th semester for the degree of Bachelor in Computer Engineering.
+
 ![Output 1](Outputs/Output_1.png)
 
 
@@ -16,10 +18,10 @@ Encoder Decoder LSTM Model and T5 Transformer Model
 
 ## Project Members
 
-Anuj Rayamajhi
+Anuj Rayamajhi        [THA076BCT007]
 
-Anup Gelal
+Anup Gelal            [THA076BCT008]
 
-Grishma Raj Khanal
+Grishma Raj Khanal    [THA076BCT016]
 
-Kaustuv Karki
+Kaustuv Karki         [THA076BCT017]
