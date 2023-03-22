@@ -13,3 +13,10 @@ Encoder Decoder LSTM Model and T5 Transformer Model
 
 
 ![Output 5](Outputs/Output_5.png)
+
+## Project Members
+
+Anuj Rayamajhi
+Anup Gelal
+Grishma Raj Khanal
+Kaustuv Karki
