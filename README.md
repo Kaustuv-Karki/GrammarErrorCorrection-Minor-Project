@@ -18,10 +18,10 @@ This project was done to fulfill the criteria for Minor project conducted by Ins
 
 ## Project Members
 
-Anuj Rayamajhi        [THA076BCT007]
+Anuj Rayamajhi        (THA076BCT007)
 
-Anup Gelal            [THA076BCT008]
+Anup Gelal            (THA076BCT008)
 
-Grishma Raj Khanal    [THA076BCT016]
+Grishma Raj Khanal    (THA076BCT016)
 
-Kaustuv Karki         [THA076BCT017]
+Kaustuv Karki         (THA076BCT017)
